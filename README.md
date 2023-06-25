@@ -1,6 +1,6 @@
 # MY TF MODULE TO PROVISION AN EKS CLUSTER WITH CUSTOM NETWORKING
 
-# Sample usage
+# Sample usage SIMPLE FOR CHECKING TAG
 
 ~~~
 module "eks-module" {
